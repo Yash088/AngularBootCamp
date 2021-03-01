@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "github-search-3353f": {
+      "hosting": {
+        "Github-login": [
+          "github-search-3353f"
+        ]
+      }
+    }
+  }
+}
